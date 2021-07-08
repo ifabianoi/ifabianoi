@@ -6,7 +6,7 @@
 
 Developer Jr at [Fecomércio GO!](http://fecomerciogo.org.br)
 
-I'm learning at the moment **PHP, Laravel, Javascript, ReactJs and Python Student**
+I'm learning at the moment **PHP, Laravel, Javascript, ReactJs and Python**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ifabianoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifabianoi/)](https://www.linkedin.com/in/ifabianoi/)
