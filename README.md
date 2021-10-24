@@ -4,9 +4,9 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fabiano</h1>
 <p align="justify">I graduated from FANAP (Brazil) in Analysis and Systems Development. </p>
 
-Jr Developer at [Fecomércio GO!](http://fecomerciogo.org.br)
+Jr Front End Developer at [CoreBiz!](https://www.corebiz.ag/)
 
-I'm learning at the moment **PHP, Laravel, Javascript, ReactJs and Python**
+I'm learning at the moment **Javascript, ReactJs, NodeJs e VTEX**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ifabianoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifabianoi/)](https://www.linkedin.com/in/ifabianoi/)
