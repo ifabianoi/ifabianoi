@@ -6,7 +6,7 @@
 
 Jr Front End Developer at [CoreBiz!](https://www.corebiz.ag/)
 
-I'm learning at the moment **Javascript, ReactJs, NodeJs, Angular e VTEX**
+I'm learning at the moment **Javascript, ReactJs, NodeJs, Angular, VTEX and VTEX IO**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ifabianoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifabianoi/)](https://www.linkedin.com/in/ifabianoi/)
