@@ -30,5 +30,4 @@ I'm learning at the moment **Javascript, ReactJs, NodeJs, Angular, VTEX and VTEX
 
 ## ⚡ GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ifabianoi&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifabianoi&hide=TeX&layout=compact&theme=vision-friendly-dark)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ifabianoi&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ifabianoi&hide=TeX&layout=compact&theme=vision-friendly-dark)
