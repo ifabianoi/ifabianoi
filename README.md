@@ -6,7 +6,7 @@
 
 Jr Front End Developer at [CoreBiz!](https://www.corebiz.ag/)
 
-I'm learning at the moment **Javascript, ReactJs, NodeJs, Angular, VTEX and VTEX IO**
+I'm learning at the moment **Javascript, ReactJs, NodeJs, Typescript, VTEX and VTEX IO**
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ifabianoi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ifabianoi/)](https://www.linkedin.com/in/ifabianoi/)
@@ -26,7 +26,7 @@ I'm learning at the moment **Javascript, ReactJs, NodeJs, Angular, VTEX and VTEX
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![BitBucket](https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Gitlab](https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## ⚡ GitHub Stats
 
