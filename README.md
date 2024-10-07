@@ -4,7 +4,7 @@
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Fabiano</h1>
 <p align="justify">I graduated from FANAP (Brazil) in Analysis and Systems Development. </p>
 
-Jr Front End Developer at [CoreBiz!](https://www.corebiz.ag/)
+Front End Developer at [CoreBiz!](https://www.corebiz.ag/)
 
 I'm learning at the moment **Javascript, ReactJs, NodeJs, Typescript, VTEX and VTEX IO**
 
